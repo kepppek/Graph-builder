@@ -1,0 +1,88 @@
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe.config
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.pdb
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.dll
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.pdb
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Form1.resources
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Properties.Resources.resources
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.GenerateResource.Cache
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.exe
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.pdb
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe.config
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.pdb
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.dll
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.pdb
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csprojAssemblyReference.cache
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Form1.resources
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Properties.Resources.resources
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.GenerateResource.cache
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.CoreCompileInputs.cache
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.CopyComplete
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.exe
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.pdb
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csprojAssemblyReference.cache
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.CoreCompileInputs.cache
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.CopyComplete
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe.config
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.dll
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csprojAssemblyReference.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Form1.resources
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Properties.Resources.resources
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.GenerateResource.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.CopyComplete
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.exe
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Conect_top.exe
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Conect_top.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Conect_top.exe.config
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe.config
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.exe
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.exe
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Form_graf.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Conect_top.exe
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.dll
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Conect_top.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\bin\Debug\Dll.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csprojResolveAssemblyReference.cache
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Form1.resources
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.Properties.Resources.resources
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Form_graf\obj\Debug\Form_graf.csproj.GenerateResource.Cache
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.csprojAssemblyReference.cache
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.Form1.resources
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.Properties.Resources.resources
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.csproj.GenerateResource.cache
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.exe
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.pdb
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Form_graf.exe.config
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Form_graf.exe
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Form_graf.pdb
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Conect_top.exe
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Dll.dll
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Conect_top.pdb
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Conect_top.exe.config
+K:\Университет\2,2\Практика\Практика\Form_graf\bin\Debug\Dll.pdb
+K:\Университет\2,2\Практика\Практика\Form_graf\obj\Debug\Form_graf.csproj.CopyComplete
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Form_graf.exe.config
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Form_graf.exe
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Form_graf.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Conect_top.exe
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Dll.dll
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Conect_top.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Conect_top.exe.config
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\bin\Debug\Dll.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.csproj.AssemblyReference.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.csproj.SuggestedBindingRedirects.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.Form1.resources
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.Properties.Resources.resources
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.csproj.GenerateResource.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.csproj.CoreCompileInputs.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.csproj.CopyComplete
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.exe
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Form_graf\obj\Debug\Form_graf.pdb

@@ -1,0 +1,48 @@
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe.config
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.pdb
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.dll
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.pdb
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.exe
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.pdb
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe.config
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.pdb
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.dll
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.pdb
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.exe
+D:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.pdb
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csprojAssemblyReference.cache
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+K:\Университет\2,1\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csproj.CopyComplete
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe.config
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.dll
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csprojAssemblyReference.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csproj.CopyComplete
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.exe
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe.config
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.exe
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Test.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.dll
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\bin\Debug\Dll.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.exe
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Test\obj\Debug\Test.pdb
+K:\Университет\2,2\Практика\Практика\Test\obj\Debug\Test.csprojAssemblyReference.cache
+K:\Университет\2,2\Практика\Практика\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Практика\Практика\Test\obj\Debug\Test.exe
+K:\Университет\2,2\Практика\Практика\Test\obj\Debug\Test.pdb
+K:\Университет\2,2\Практика\Практика\Test\bin\Debug\Test.exe.config
+K:\Университет\2,2\Практика\Практика\Test\bin\Debug\Test.exe
+K:\Университет\2,2\Практика\Практика\Test\bin\Debug\Test.pdb
+K:\Университет\2,2\Практика\Практика\Test\bin\Debug\Dll.dll
+K:\Университет\2,2\Практика\Практика\Test\bin\Debug\Dll.pdb
+K:\Университет\2,2\Практика\Практика\Test\obj\Debug\Test.csproj.CopyComplete

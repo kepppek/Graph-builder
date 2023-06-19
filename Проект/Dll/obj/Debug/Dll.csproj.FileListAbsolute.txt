@@ -1,0 +1,23 @@
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\bin\Debug\Dll.dll
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\bin\Debug\Dll.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\obj\Debug\Dll.csprojAssemblyReference.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\obj\Debug\Dll.dll
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\obj\Debug\Dll.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\obj\Debug\Dll.csprojResolveAssemblyReference.cache
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\obj\Debug\Dll.dll
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\obj\Debug\Dll.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\bin\Debug\Dll.dll
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Dll\bin\Debug\Dll.pdb
+K:\Университет\2,2\Практика\Практика\Dll\bin\Debug\Dll.dll
+K:\Университет\2,2\Практика\Практика\Dll\bin\Debug\Dll.pdb
+K:\Университет\2,2\Практика\Практика\Dll\obj\Debug\Dll.csprojAssemblyReference.cache
+K:\Университет\2,2\Практика\Практика\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Практика\Практика\Dll\obj\Debug\Dll.dll
+K:\Университет\2,2\Практика\Практика\Dll\obj\Debug\Dll.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Dll\bin\Debug\Dll.dll
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Dll\bin\Debug\Dll.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Dll\obj\Debug\Dll.csproj.AssemblyReference.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Dll\obj\Debug\Dll.dll
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Dll\obj\Debug\Dll.pdb

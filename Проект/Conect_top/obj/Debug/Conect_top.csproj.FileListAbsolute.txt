@@ -1,0 +1,51 @@
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Conect_top.exe.config
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Conect_top.exe
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Conect_top.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.Form1.resources
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.Properties.Resources.resources
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.csproj.GenerateResource.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.exe
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Dll.dll
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Dll.pdb
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.csprojAssemblyReference.cache
+K:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.csproj.CopyComplete
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Conect_top.exe.config
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Conect_top.exe
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Conect_top.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Dll.dll
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\bin\Debug\Dll.pdb
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.csprojResolveAssemblyReference.cache
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.Form1.resources
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.Properties.Resources.resources
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.csproj.GenerateResource.Cache
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.exe
+F:\Университет\2,2\Алгоритмы и структуры данных\Лабораторные (vs)\Conect_top\obj\Debug\Conect_top.pdb
+K:\Университет\2,2\Практика\Практика\Conect_top\bin\Debug\Conect_top.exe.config
+K:\Университет\2,2\Практика\Практика\Conect_top\bin\Debug\Conect_top.exe
+K:\Университет\2,2\Практика\Практика\Conect_top\bin\Debug\Conect_top.pdb
+K:\Университет\2,2\Практика\Практика\Conect_top\bin\Debug\Dll.dll
+K:\Университет\2,2\Практика\Практика\Conect_top\bin\Debug\Dll.pdb
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.csprojAssemblyReference.cache
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.Form1.resources
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.Properties.Resources.resources
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.csproj.GenerateResource.cache
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.csproj.CoreCompileInputs.cache
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.csproj.CopyComplete
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.exe
+K:\Университет\2,2\Практика\Практика\Conect_top\obj\Debug\Conect_top.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\bin\Debug\Conect_top.exe.config
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\bin\Debug\Conect_top.exe
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\bin\Debug\Conect_top.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\bin\Debug\Dll.dll
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\bin\Debug\Dll.pdb
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.csproj.AssemblyReference.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.csproj.SuggestedBindingRedirects.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.Form1.resources
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.Properties.Resources.resources
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.csproj.GenerateResource.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.csproj.CoreCompileInputs.cache
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.csproj.CopyComplete
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.exe
+C:\SuperData\Университет\Бакалавриат\Проект\Практика\Conect_top\obj\Debug\Conect_top.pdb
